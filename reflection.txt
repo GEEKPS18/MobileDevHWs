@@ -1,0 +1,3 @@
+Technical Reflection Answer:
+
+"Although React Native uses a bridge to render native UI components, this implementation delegates all UI rendering to a WebView — a single native widget displaying a remote web page. The user interface is web-based (HTML/CSS/JS from Google), not composed of native React Native components, making it a Hybrid/Shell architecture."
